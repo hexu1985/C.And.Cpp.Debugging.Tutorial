@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${workspaceFolder}/factorial",
-            "args": [10],
+            "args": ["10"],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
             "environment": [],
